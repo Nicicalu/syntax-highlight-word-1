@@ -26,3 +26,9 @@ npm run e2e
 # run all tests
 npm test
 ```
+
+## Run with Docker
+```bash
+docker build . -t syntax-highlight-word
+docker run --name syntax-highlight-word -d syntax-highlight-word
+```
