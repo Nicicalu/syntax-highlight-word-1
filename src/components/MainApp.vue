@@ -4,11 +4,11 @@
       <div class="container">
         <ul class="item">
           <li class="github">
-            <a href="//github.com/littlegolden/syntax-highlight-word">github</a>
+            <a href="https://github.com/Nicicalu/syntax-highlight-word-1">github</a>
           </li>
           <li class="mail">
             <a
-              href="//github.com/littlegolden/syntax-highlight-word/discussions"
+              href="https://github.com/Nicicalu/syntax-highlight-word-1/discussions"
               >mail</a
             >
           </li>
@@ -22,6 +22,9 @@
           <p>
             This is a fork project to bring back the unavailable one on
             <a href="http://www.planetb.ca/syntax-highlight-word">planetb.ca</a> by Jamie.
+          </p>
+          <p>
+            I myself forked the project from littlegolden. <a href="https://github.com/littlegolden/syntax-highlight-word" >Projekt Link</a>
           </p>
           <p>
             Placed a form around
