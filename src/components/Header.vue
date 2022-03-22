@@ -2,7 +2,7 @@
   <div id="header">
     <header>
       <div class="container">
-        <div class="logo animated fadeIn">planetB</div>
+        <div class="logo animated fadeIn">planetB Fork</div>
       </div>
     </header>
     <nav class="animated fadeIn">
