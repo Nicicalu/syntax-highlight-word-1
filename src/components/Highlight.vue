@@ -15,7 +15,7 @@
       </span>
       <p>
         <font-awesome-icon :icon="['fas', 'bug']" /> got problems?
-        <a href="https://github.com/littlegolden/syntax-highlight-word/"
+        <a href="https://github.com/Nicicalu/syntax-highlight-word-1"
           >report</a
         >
       </p>
