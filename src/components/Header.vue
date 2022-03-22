@@ -2,7 +2,7 @@
   <div id="header">
     <header>
       <div class="container">
-        <div class="logo animated fadeIn">planetB Fork</div>
+        <div class="logo animated fadeIn">syntax-highlighter.k26.ch</div>
       </div>
     </header>
     <nav class="animated fadeIn">
@@ -10,7 +10,7 @@
         <a href="#" class="top"
           ><font-awesome-icon :icon="['fas', 'angle-up']"
         /></a>
-        <a href="https://github.com/Nicicalu/syntax-highlight-word-1">Home</a>
+        <a href="https://k26.ch">Home</a>
       </div>
     </nav>
   </div>
