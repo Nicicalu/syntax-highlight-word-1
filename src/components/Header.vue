@@ -10,7 +10,7 @@
         <a href="#" class="top"
           ><font-awesome-icon :icon="['fas', 'angle-up']"
         /></a>
-        <a href="http://github.com/littlegolden/syntax-highlight-word">Home</a>
+        <a href="https://github.com/Nicicalu/syntax-highlight-word-1">Home</a>
       </div>
     </nav>
   </div>
